@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jovanygeorgeshafik" alt="jovanygeorgeshafik" /></a> </p>
 
-- 🔭 I’m currently working on [cars store](https://github.com/JovanyGeorgeShafik/cars)
-
-- 🌱 I’m currently learning **Nestjs microservice and nest js jwt**
+- 🔭 I’m currently working on [ecommerce store](https://github.com/JovanyGeorgeShafik/store)
 
 - 💬 Ask me about **Angular, html, css, js and scss**
 
